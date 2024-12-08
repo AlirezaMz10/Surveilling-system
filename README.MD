@@ -15,7 +15,7 @@ This project is a Python-based application that monitors news websites, extracts
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/surveilling-system-images.git
+   git clone https://github.com/AlirezaMz10/Surveilling-system.git
    cd surveilling-system-images
    
 2. Install required dependencies:
