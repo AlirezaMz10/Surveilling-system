@@ -49,3 +49,5 @@ Notes
 Contributing
 
 Contributions are welcome! If you have suggestions for improving the script or adding new features, feel free to open an issue or submit a pull request.
+
+For more please check my <a href = "https://medium.com/@alirezapple/building-an-automated-news-monitoring-system-with-python-57ed3ff3f440">Medium</a> and <a href = "https://www.linkedin.com/pulse/building-automated-news-monitoring-system-python-alireza-malekzadeh-w8xif/">Linkedin</a> accounts
